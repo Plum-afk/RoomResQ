@@ -1,0 +1,8 @@
+{
+  "name": "RoomResQ",
+  "description": "AI-powered room organization and decluttering assistant using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
